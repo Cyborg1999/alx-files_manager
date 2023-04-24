@@ -43,7 +43,7 @@
     "sinon": "^7.5.0"
   },
   "directories": {
-    "test": "tests"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
